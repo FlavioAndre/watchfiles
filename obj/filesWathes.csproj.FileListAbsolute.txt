@@ -1,0 +1,16 @@
+D:\Profiles\f0fp241\Desenv\filesWathes\bin\Debug\filesWathes.exe
+D:\Profiles\f0fp241\Desenv\filesWathes\bin\Debug\filesWathes.pdb
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\ResolveAssemblyReference.cache
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWathes.frmPrincipal.resources
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWathes.Properties.Resources.resources
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWathes.csproj.GenerateResource.Cache
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWathes.exe
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWathes.pdb
+D:\Profiles\f0fp241\Desenv\filesWathes\bin\Release\filesWathes.exe
+D:\Profiles\f0fp241\Desenv\filesWathes\bin\Release\filesWathes.pdb
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Release\ResolveAssemblyReference.cache
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Release\filesWathes.frmPrincipal.resources
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Release\filesWathes.Properties.Resources.resources
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Release\filesWathes.csproj.GenerateResource.Cache
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Release\filesWathes.exe
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Release\filesWathes.pdb

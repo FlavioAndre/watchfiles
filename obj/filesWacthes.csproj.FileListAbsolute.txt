@@ -1,0 +1,8 @@
+D:\Profiles\f0fp241\Desenv\filesWathes\bin\Debug\filesWathes.exe
+D:\Profiles\f0fp241\Desenv\filesWathes\bin\Debug\filesWathes.pdb
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\ResolveAssemblyReference.cache
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWatches.frmPrincipal.resources
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWatches.Properties.Resources.resources
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWacthes.csproj.GenerateResource.Cache
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWathes.exe
+D:\Profiles\f0fp241\Desenv\filesWathes\obj\Debug\filesWathes.pdb

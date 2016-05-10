@@ -1,0 +1,8 @@
+C:\Users\flavio.andre\desenv\Desenv\filesWatches\obj\Release\filesWatches.exe
+C:\Users\flavio.andre\desenv\Desenv\filesWatches\obj\Release\filesWatches.pdb
+C:\Users\flavio.andre\desenv\Desenv\filesWatches\bin\Release\filesWatches.exe
+C:\Users\flavio.andre\desenv\Desenv\filesWatches\bin\Release\filesWatches.pdb
+C:\Users\flavio.andre\desenv\Desenv\filesWatches\obj\Release\filesWatches.csprojResolveAssemblyReference.cache
+C:\Users\flavio.andre\desenv\Desenv\filesWatches\obj\Release\filesWatches.frmPrincipal.resources
+C:\Users\flavio.andre\desenv\Desenv\filesWatches\obj\Release\filesWatches.Properties.Resources.resources
+C:\Users\flavio.andre\desenv\Desenv\filesWatches\obj\Release\filesWatches.csproj.GenerateResource.Cache
